@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="google_awareness_api_key">AIzaSyDGIfcROOTbhh88MafVlUoIlyghzNSlGuk</string>
+
+    <!-- API Key for 좌표→주소 변환API -->
+    <string name="daum_api_key">14b7f5a4660de50469b4b6a8c6d41aa7</string>
+</resources>

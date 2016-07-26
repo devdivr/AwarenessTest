@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AwarenessTest</string>
+    <string name="getting_activity">Getting user activity...</string>
+    <string name="getting_location">Getting current location...</string>
+    <string name="getting_address">Getting current address...</string>
+    <string name="getting_places">Getting current places...</string>
+    <string name="getting_weather">Getting current weather...</string>
+</resources>
