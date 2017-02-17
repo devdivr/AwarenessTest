@@ -25,7 +25,9 @@
         <!-- beacon snapshots or using beacon fences -->
         <meta-data
                 android:name="com.google.android.nearby.messages.API_KEY"
-                android:value="@string/google_awareness_api_key" />
+                android:value="@string/google_awareness_api_key" />zf
+
+        <receiver android:name=".receiver.LocationFenceReceiver" />
 
         <activity android:name=".view.MainActivity">
             <intent-filter>

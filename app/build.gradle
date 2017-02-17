@@ -23,6 +23,7 @@ dependencies {
     compile fileTree(dir: 'libs', include: ['*.jar'])
     testCompile 'junit:junit:4.12'
     compile "com.android.support:appcompat-v7:$versions.supportVersion"
+    compile "com.android.support:design:$versions.supportVersion"
 
     compile "com.google.android.gms:play-services-contextmanager:$versions.playServiceVersion"
     compile "com.google.android.gms:play-services-location:$versions.playServiceVersion"

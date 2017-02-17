@@ -5,4 +5,7 @@
     <string name="getting_address">Getting current address...</string>
     <string name="getting_places">Getting current places...</string>
     <string name="getting_weather">Getting current weather...</string>
+    <string name="title_snapshop">Snapshot API</string>
+    <string name="title_fence">Fence API</string>
+    <string name="registering_fence">Registering Fences...</string>
 </resources>
